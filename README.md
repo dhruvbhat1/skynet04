@@ -20,7 +20,7 @@ Download all the files in single folder in your studio (Here i have used Visual 
 
 **S4:Run the command**
 
-**S5:Here i have shown video using my phone **
+**S5:Here i have shown video using my phone.**
 
 **S6:The pedestrian are showns using red and blue rectangle,while the cars are shown using yellow rectangle,you can use another dataset of potholes and show it in different color.**
 
