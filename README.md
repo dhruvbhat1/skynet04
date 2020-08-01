@@ -28,6 +28,8 @@ Download all the files in single folder in your studio (Here i have used Visual 
 
 
 
+
+
 Haar feature
 Haar-like  features  were  proposed  by  Viola  and Jones [7]  as  an  alternative  method  for  face detection. The  general  idea  was  to  describe  an  object  as  a cascade  of  simple  feature  classifiers  organized  into several stages. This  is a very fast method, performing face detection as effectively as any other methods. As stated in [7], in the  CMU+MIT reference test  set,  the method  performed  15  times  faster  than  the  Baluja-Kanade  detector  and  about 600  times  faster  than  the Schneiderman-Kanade detector. The classification of images is based on the value of simple  basic  features.  Features  are  used  instead  of simple raw pixel values generally because they can act to encode  ad-hoc  domain  knowledge  but  also,  in  this particular  case,  because  they  are  much  faster  to process. 
 
