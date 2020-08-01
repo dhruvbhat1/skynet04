@@ -4,9 +4,9 @@
 
 This has been used in autopilot cars.
 
-Here i have used the images of car and pedestrian in form of xml file which reads the co-ordinates of the object creates a square around it.
+Here i have used the images of car and pedestrian in form of xml file which reads the co-ordinates of the object and creates a square around it.
 
-I first learnt open cv and python and tried the syntax which i used in face recognition system
+I have first learnt open cv and python and tried the syntax which i used in face recognition system.
 
 **Instruction**
 
