@@ -12,9 +12,9 @@ I first learnt open cv and python and tried the syntax which i used in face reco
 
 Download all the files in single folder in your studio (Here i have used Visual Code 2019)
 
-**S1:Open the skycam.py in visual studio code
+**S1:Open the skycam.py in visual studio code**
 
-**S2:Using your inbuilt terminal in studio or CMD run command **python skycam.py
+**S2:Using your inbuilt terminal in studio or CMD run command **python skycam.py**
 
 **S3:Allow access to camera
 
