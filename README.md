@@ -49,8 +49,8 @@ Download all the files in single folder in your studio (Here i have used Visual 
 
 **Feature of car**
 
-     An intelligent traffic surveillance system, equipped with electronic devices, works by communicating with moving vehicles about traffic conditions, monitor rules and regulations and avoid collision between cars. Therefore the first step in this process is the detection of cars. The system uses Haar like features for vehicle detection, which is generally used for face detection.
-     Haar feature-based cascade classifiers are an effective object detection method first proposed by Viola and Jones. It's a machine learning based technique which uses a set of positive and negative images for training purpose. Results show this method is quite fast and effective in detecting cars in real time CCTV footages.
+   An intelligent traffic surveillance system, equipped with electronic devices, works by communicating with moving vehicles about traffic conditions, monitor rules and regulations and avoid collision between cars. Therefore the first step in this process is the detection of cars. The system uses Haar like features for vehicle detection, which is generally used for face detection.
+    Haar feature-based cascade classifiers are an effective object detection method first proposed by Viola and Jones. It's a machine learning based technique which uses a set of positive and negative images for training purpose. Results show this method is quite fast and effective in detecting cars in real time CCTV footages.
 
 ![of a car](https://www.researchgate.net/publication/315137877/figure/fig2/AS:614297159872520@1523471264588/Haar-like-features-Top-row-basic-forms-of-Haar-like-features-Bottom-row-vehicle-rear.png)
 
