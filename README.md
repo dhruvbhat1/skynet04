@@ -28,24 +28,28 @@ Download all the files in single folder in your studio (Here i have used Visual 
 
 **S8:It converts the colored images to black_n_white and again to color so that it consumes less memory.**
 
-Testing 1: This is the image where cars getting detected from an image.
+**Testing 1: This is the image where cars getting detected from an image.**
 ![Testing Images 1](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/b1.jpg)
 
-Testing 2:This is the image where cars are detected in a real time system.
+**Testing 2:This is the image where cars are detected in a real time system.**
 ![Testing Images 2](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/b2.PNG)
 
-Testing 3:This is the image where people and cars are detected with red-blue box and yellow box respectively.
+**Testing 3:This is the image where people and cars are detected with red-blue box and yellow box respectively.**
 ![Testing Images 3](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/b3.PNG)
 
 
 
 **Haar feature**
-Haar-like  features  were  proposed  by  Viola  and Jones [7]  as  an  alternative  method  for  face detection. The  general  idea  was  to  describe  an  object  as  a cascade  of  simple  feature  classifiers  organized  into several stages. This  is a very fast method, performing face detection as effectively as any other methods. As stated in [7], in the  CMU+MIT reference test  set,  the method  performed  15  times  faster  than  the  Baluja-Kanade  detector  and  about 600  times  faster  than  the Schneiderman-Kanade detector. The classification of images is based on the value of simple  basic  features.  Features  are  used  instead  of simple raw pixel values generally because they can act to encode  ad-hoc  domain  knowledge  but  also,  in  this particular  case,  because  they  are  much  faster  to process. 
+
+   Haar-like  features  were  proposed  by  Viola  and Jones  as  an  alternative  method  for  face detection. The  general  idea  was  to  describe  an  object  as  a cascade  of  simple  feature  classifiers  organized  into several stages. This  is a very fast method, performing face detection as effectively as any other methods.
+   As stated in , in the  CMU+MIT reference test  set,  the method  performed  15  times  faster  than  the  Baluja-Kanade  detector  and  about 600  times  faster  than  the Schneiderman-Kanade detector.
+   The classification of images is based on the value of simple  basic  features.  Features  are  used  instead  of simple raw pixel values generally because they can act to encode  ad-hoc  domain  knowledge  but  also,  in  this particular  case,  because  they  are  much  faster  to process. 
 
 ![Haar Features](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAX7WHLxJXYqJaTma5tg75wYZay0G--Z7xMw&usqp=CAU)
 
 **Feature of car**
-An intelligent traffic surveillance system, equipped with electronic devices, works by communicating with moving vehicles about traffic conditions, monitor rules and regulations and avoid collision between cars. Therefore the first step in this process is the detection of cars. The system uses Haar like features for vehicle detection, which is generally used for face detection. Haar feature-based cascade classifiers are an effective object detection method first proposed by Viola and Jones. It's a machine learning based technique which uses a set of positive and negative images for training purpose. Results show this method is quite fast and effective in detecting cars in real time CCTV footages.
+     An intelligent traffic surveillance system, equipped with electronic devices, works by communicating with moving vehicles about traffic conditions, monitor rules and regulations and avoid collision between cars. Therefore the first step in this process is the detection of cars. The system uses Haar like features for vehicle detection, which is generally used for face detection.
+     Haar feature-based cascade classifiers are an effective object detection method first proposed by Viola and Jones. It's a machine learning based technique which uses a set of positive and negative images for training purpose. Results show this method is quite fast and effective in detecting cars in real time CCTV footages.
 
 ![of a car](https://www.researchgate.net/publication/315137877/figure/fig2/AS:614297159872520@1523471264588/Haar-like-features-Top-row-basic-forms-of-Haar-like-features-Bottom-row-vehicle-rear.png)
 
