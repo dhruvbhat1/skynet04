@@ -26,7 +26,7 @@ S6:The pedestrian are showns using red and blue rectangle,while the cars are sho
 
 S7:This system is not 100% accurate but it work faster according to my calculations.
 
-![My Testing images](\latest\components\b1.png)
+<img src="\latest\components\b1.png" width="350">
 
 
 Haar feature
