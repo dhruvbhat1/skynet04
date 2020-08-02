@@ -1,7 +1,7 @@
 # skynet04
 
 **This is Real Time opencv based people, car, animal, and various Road sign detection system** 
-Only screenshots are added if compiled it works 100%
+Only screenshots are added if compiled it works 100% (ALL the parameters works continuously when objects are detected)
 
 This has been used in autopilot cars.
 
