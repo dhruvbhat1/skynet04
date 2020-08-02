@@ -28,28 +28,28 @@ Download all the files in single folder in your studio (Here i have used Visual 
 
 **S8:It converts the colored images to black_n_white and again to color so that it consumes less memory.**
 
-**Testing 1
+**Testing 1**
 ![Testing Images 1](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a1.PNG)
 
-**Testing 2
+**Testing 2**
 ![Testing Images 2](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a2.PNG)
 
-**Testing 3
+**Testing 3**
 ![Testing Images 3](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a3.PNG)
 
-**Testing 4
+**Testing 4**
 ![Testing Images 4](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a4.PNG)
 
-**Testing 5
+**Testing 5**
 ![Testing Images 5](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a5.PNG)
 
-**Testing 6
+**Testing 6**
 ![Testing Images 6](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a6.PNG)
 
-**Testing 7
+**Testing 7**
 ![Testing Images 7](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a7.PNG)
 
-**Testing 8
+**Testing 8**
 ![Testing Images 8](https://github.com/dhruvbhat1/skynet04/blob/master/skynet/a8.PNG)
 
 
