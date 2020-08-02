@@ -4,7 +4,7 @@
 
 This has been used in autopilot cars.
 
-Here i have used the images of car and pedestrian in form of xml file which reads the co-ordinates of the object and creates a square around it.
+Here i have used the datasets of car, pedestrian, animal(cats),bikes, bus,bumper signs, stop sign, and traffic signals in form of xml file which reads the co-ordinates of the object and creates a square around it.
 
 I have first learnt open cv and python and tried the syntax which i used in face recognition system.
 
@@ -22,7 +22,7 @@ Download all the files in single folder in your studio (Here i have used Visual 
 
 **S5:Here i have shown video using my phone.**
 
-**S6:The pedestrian are showns using red and blue rectangle,while the cars are shown using yellow rectangle,you can use another dataset of potholes and show it in different color.**
+**S6:The parameters are shown with different colors and names written on it**
 
 **S7:This system is not 100% accurate but it works faster according to my calculations.**
 
